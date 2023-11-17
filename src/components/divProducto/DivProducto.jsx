@@ -1,6 +1,6 @@
 import '../divProducto/DivProducto.css'
 import React, { useState } from 'react';
-import RML_GlossPump_SpicedNude_open_lg from 'public/RML_GlossPump_SpicedNude_open_lg.jpg'
+import RML_GlossPump_SpicedNude_open_lg from '../divProducto/RML_GlossPump_SpicedNude_open_lg.jpg'
 
 export default function DivProducto() {
 
