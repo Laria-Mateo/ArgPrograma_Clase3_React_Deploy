@@ -1,0 +1,80 @@
+body{
+    background-color: #333;
+}
+
+.product-container {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    font-size: 1.60rem;
+    background: rgb(243, 236, 172);
+}
+
+.product-container {
+    display: flex;
+    border: 1px solid #ddd;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.product-container img {
+    max-width: 35%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.product-info {
+    margin-left: 20px;
+
+}
+
+.product-info h2 {
+    margin: 0;
+    font-family: 'Bahnschrift SemiBold Condensed', sans-serif;
+    font-size: 50px;
+    letter-spacing: 3px;
+}
+
+.pPrecio {
+    margin: 0px;
+    font-size: 25px;
+    color: #888;
+}
+
+.pDescripcion {
+    margin: 0px;
+    
+}
+.product-info h3 {
+    font-family: 'Bahnschrift SemiBold Condensed', sans-serif;
+    font-size: 30px;
+    letter-spacing: 3px;
+    margin-top: 2%;
+}
+.carrito button{
+    border-radius:10px;
+    margin-left: 5px;
+    background:#dfbf0e ;
+    left: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.divContenedor{
+    display: flex;
+    
+}
+.carrito{
+    flex: 1;
+    
+    
+    
+}
+.ingredientes{
+    flex: 1;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    text-align: center;
+    background-color: aliceblue;
+    font-size: 15px;
+    margin: 5px;
+}
