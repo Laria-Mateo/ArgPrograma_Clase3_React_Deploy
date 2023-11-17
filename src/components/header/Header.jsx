@@ -5,7 +5,7 @@ export default function Header() {
 
     return (
 
-        <div className="header col-sm-12 ">
+        <div className="header col-md-12 ">
 
             <link
                 rel="stylesheet"

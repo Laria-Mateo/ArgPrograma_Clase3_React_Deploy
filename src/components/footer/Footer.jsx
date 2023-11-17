@@ -8,7 +8,7 @@ export default function Footer() {
         <>
             <footer className="footer">
                 <div className="container">
-                    <p>&copy; 2023 Sara Online for Mateo Laria. Todos los derechos reservados.</p>
+                    <p>&copy; 2023 Sara Online x Mateo Laria. Todos los derechos reservados.</p>
                 </div>
             </footer>
         </>

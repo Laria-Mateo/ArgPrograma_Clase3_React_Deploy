@@ -22,7 +22,8 @@ export default function DivProducto() {
 
     return (
         <>
-            <div className="product-container">
+        
+            <div className="product-container ">
 
 
                 <img src={RML_GlossPump_SpicedNude_open_lg}alt="Producto" />
@@ -53,7 +54,7 @@ export default function DivProducto() {
                 </div>
             </div>
 
-
+            
         </>
     )
 
