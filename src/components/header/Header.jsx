@@ -1,5 +1,5 @@
 import '../header/Header.css'
-
+import OIG from '.../public/OIG.jpg'
 
 export default function Header() {
 
@@ -16,7 +16,7 @@ export default function Header() {
             />
             <div className='titulonombre'>
                 <div className='foto'>
-                    <img src="public/OIG.jpg" />
+                    <img src="OIG" />
                 </div>
                 <div className='nombre'>
                     <h1 className='titulo'>Sara Online</h1>
