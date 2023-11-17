@@ -16,7 +16,7 @@ export default function Header() {
             />
             <div className='titulonombre'>
                 <div className='foto'>
-                    <img src="src\components\header\OIG.jpg" />
+                    <img src="public/OIG.jpg" />
                 </div>
                 <div className='nombre'>
                     <h1 className='titulo'>Sara Online</h1>

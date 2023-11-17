@@ -1,6 +1,7 @@
 import '../divProducto/DivProducto.css'
 import React, { useState } from 'react';
 
+
 export default function DivProducto() {
 
     
@@ -24,7 +25,7 @@ export default function DivProducto() {
             <div className="product-container">
 
 
-                <img src="src\components\divProducto\RML_GlossPump_SpicedNude_open_lg.jpg" alt="Producto" />
+                <img src="public/RML_GlossPump_SpicedNude_open_lg.jpg" alt="Producto" />
                 <div class="product-info">
                     <h2><b>OH MY GLOSS! PLUMP | RIMMEL LONDON</b></h2>
                     <p className='pPrecio'>$8.200 <br /> en 12x $1646</p>
